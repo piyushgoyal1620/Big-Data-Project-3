@@ -26,7 +26,7 @@
 
 ## ROLES AND RESPONSIBILITIES
 * Streamed the data using Rest API.
-* implied Data Streaming and Spark-Submit job.
+* Implied Data Streaming and Spark-Submit job.
 * Performed many Use cases.
 * Visualized the Data using Seaborn and Matplotlib.
 * Worked on EV stocks use cases.
