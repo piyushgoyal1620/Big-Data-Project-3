@@ -1,4 +1,4 @@
-# STOCK DATA ANALYSIS AND STREAMING
+# STOCK DATA STREAMING AND ANALYSIS
 
 ## DESCRIPTION
 * This project is basically for collecting  enormous data and analysing it. 
@@ -8,13 +8,14 @@
 * The analyzed data is then visualized by plotting different graphs using python libraries.
 
 
+
 ## STREAMING TOOLS
 * Websocket,
 * Requests library,
 * Pandas datareader library,
 * Netcat,
-* API : Forex trading,
-* data visualization tool: matplotlib,Seaborn.
+* API : Tiingo API,Alpha Vantage API.
+* data visualization tool: matplotlib,Seaborn
 
 
 ## TECHNOLOGIES USED:
@@ -26,11 +27,10 @@
 ![alt text](https://databricks.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-29-at-10.11.42-PM.png)
 
 ## ROLES AND RESPONSIBILITIES
-* Streamed the data using Rest API.
-* Implied Data Streaming and Spark-Submit job.
-* Performed many Use cases.
-* Visualized the Data using Seaborn and Matplotlib.
-* Worked on EV stocks use cases.
-* Deployed whole project over the GitHub.
+* DATA STREAMING AND SPARK submit job- Rajib’s team
+* Use cases- Eshwar’s team
+* Visualization- Karan’s team
+* EV stock use case-Kareem's team
+* Deployment-Trupti’s Team
 
 
